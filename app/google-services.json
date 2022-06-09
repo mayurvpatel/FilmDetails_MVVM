@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "226881479699",
+    "project_id": "clavaxpractical",
+    "storage_bucket": "clavaxpractical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226881479699:android:1e2aeb977d70d2bea10be6",
+        "android_client_info": {
+          "package_name": "com.task.practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226881479699-0p7cfni6mcf8kjnkmafppqopr671jeto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.task.practical",
+            "certificate_hash": "ebd047ec0dc3ea4044357d4ab2eec705542a6893"
+          }
+        },
+        {
+          "client_id": "226881479699-15mqhlq64opravbht3hb8jp7f952r9ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfWOW9y_A3_69VvNHgIjQeEPwCoHL_B_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226881479699-15mqhlq64opravbht3hb8jp7f952r9ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
